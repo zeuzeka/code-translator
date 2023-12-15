@@ -1,4 +1,4 @@
-CconvAI is a code convertor that uses AI to effectively convert code from a program language to another with the use of a button. Features:
+CconAI is a code convertor that uses AI to effectively convert code from a program language to another with the use of a button. Features:
   1. Converts code to another programming language that the user desires.
   2. Creates a history of the code that the user has converted.
   3. Regenerates the convertion in case the user is not satisfied.
